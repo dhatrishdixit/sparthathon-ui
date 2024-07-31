@@ -17,12 +17,12 @@ export default function Component() {
             <AvatarFallback>AC</AvatarFallback>
           </Avatar>
           <div className="bg-muted text-muted-foreground rounded-lg p-3 max-w-[70%]">
-            <p>Hello, how can I assist you today?</p>
+            <p>Hello how can I assist you today?</p>
           </div>
         </div>
         <div className="flex items-start gap-3 justify-end">
           <div className="bg-primary text-primary-foreground rounded-lg p-3 max-w-[70%]">
-            <p>I'm having an issue with my recent order. Can you help me?</p>
+            <p>I am having an issue with my recent order. Can you help me?</p>
           </div>
           <Avatar className="w-8 h-8 border">
             <AvatarImage src="/placeholder-user.jpg" />
@@ -35,13 +35,13 @@ export default function Component() {
             <AvatarFallback>AC</AvatarFallback>
           </Avatar>
           <div className="bg-muted text-muted-foreground rounded-lg p-3 max-w-[70%]">
-            <p>Sure, I'd be happy to help. Can you please provide more details about the issue you're experiencing?</p>
+            <p>Sure I would be happy to help Can you please provide more details about the issue </p>
           </div>
         </div>
         <div className="flex items-start gap-3 justify-end">
           <div className="bg-primary text-primary-foreground rounded-lg p-3 max-w-[70%]">
             <p>
-              I placed an order last week, but it hasn't arrived yet. The tracking number shows it's still in transit.
+              but it hasnt arrived yet The tracking number shows till in transit.
             </p>
           </div>
           <Avatar className="w-8 h-8 border">
@@ -55,7 +55,7 @@ export default function Component() {
             <AvatarFallback>AC</AvatarFallback>
           </Avatar>
           <div className="bg-muted text-muted-foreground rounded-lg p-3 max-w-[70%]">
-            <p>I apologize for the delay. Let me look into that for you. Can you please provide the order number?</p>
+            <p>I apologize for the delay Let me look into that for you Can you please provide the order number</p>
           </div>
         </div>
       </div>
